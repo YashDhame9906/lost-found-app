@@ -33,6 +33,7 @@
 <body>
 
 <h1>Lost & Found System</h1>
+<h2>welcome</h2> 
 
 <a class="btn" href="post.php">➕ Post Item</a>
 <a class="btn" href="view.php">👀 View Items</a>
