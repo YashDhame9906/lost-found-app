@@ -32,4 +32,3 @@ A web application that helps users report and find lost items easily.
 ## 👨‍💻 Author
 
 Yash Dhame
-lokesh
